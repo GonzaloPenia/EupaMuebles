@@ -1,0 +1,70 @@
+.header{
+    font-family: 'Times New Roman';
+    text-align: center; /* Centra el contenido dentro del encabezado */
+    background-color: #886602;
+    color: #fff;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: #886602; 
+    overflow: hidden;
+    padding:5px 200px;
+}
+
+.navbar a {
+    float: left; 
+    display: block; 
+    color: white; 
+    text-align: center; 
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;    
+}
+
+.sub_tit{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding:15px;
+}
+.div_sup{
+    font-family: 'Times New Roman';
+    text-align: center; /* Centra el contenido dentro del encabezado */
+}
+
+.div_cent{
+    font-family: 'Times New Roman';
+    text-align: center; 
+}
+
+.imagen{
+    width: 800px;
+    height: auto; 
+    margin: auto; /* Centra la foto dentro del div, es necesario agregar display: block; y darle un ancho y alto */
+    display: block;
+}
+
+
+.div_inf{
+    padding:15px;
+    font-family: 'Times New Roman';
+    text-align: center; /* Centra el contenido dentro del encabezado */
+}
+
+
+.footer{
+    font-family: 'Times New Roman';
+    text-align: center; /* Centra el contenido dentro del encabezado */
+    background-color: #886602;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
